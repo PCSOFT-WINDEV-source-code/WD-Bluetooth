@@ -1,0 +1,89 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD Bluetooth
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : ""
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : WD Bluetooth
+    internal_properties : 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
+    configuration_id : 5463651748282588104
+    type : 1
+    generation_name : WD Bluetooth.exe
+    version :
+     version : VI190030C
+     autoincrement_version : false
+    icon_filename : .\bluetooth.ico
+    language : 2
+    new_features_help :
+     name : ""
+     internal_properties : CAAAAAgAAABb12iCKVpLvw93VlRBGBk2wdMMFky9l0BDOx0DWi0wOFwx0MvsQBOozfKtwyB68rGPwx0IYALkdo5M2A==
+ elements :
+  identifier : 0x4ac37d2801139880
+  elements :
+   -
+     name : WIN_Services_And_Transfer
+     identifier : 0x4762bafc0002e27d
+     internal_properties : CAAAAAgAAABm7E5SUQ4myez0fO1JPxNcxkcdhTf+8T1CDiSexiHz3dcv6oyaplPlrWlTrXVrF4lz8w==
+     physical_name : .\WIN_Services_And_Transfer.wdw
+     type : 2
+   -
+     name : WIN_GetFiles
+     identifier : 0x4887079000005f24
+     internal_properties : CAAAAAgAAAB82lRAfySMn6aKztMf782a/EnLY2JVHXaONx3iF/GbDeM/nljMdCU38y+pF59RKZ9p6Q==
+     physical_name : .\WIN_GetFiles.wdw
+     type : 2
+   -
+     name : WIN_Main
+     identifier : 0x4889ab7300005aff
+     internal_properties : CAAAAAgAAABRrYmdKlffkFWNwdZiG86Hgf7ktA/0Ez9CDiROv1nFM41nkFbBfyo69iKcZCykXEy0vA==
+     physical_name : .\WIN_Main.wdw
+     type : 2
+  other_elements :
+   -
+     physical_name : .\description.gif
+   -
+     physical_name : .\description.rtf
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ common_generation_directory : true
+ languages :
+  - en-GB
+ code_elements :
+  internal_properties : CAAAAAgAAABQ63RwWuf4x9rtmnvg7nHVm/0JBAVSvF5Tt0ecdO8df2PwBvv8DDeBJOBbXYUXfDxCz3CW/rPVT+zMgR1aE7M629xgw1fDi2KES5gpSQ==
+  type_code : 0
+  p_codes :
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WD Bluetooth
+     identifier : 0x4ac37d2901199ab1
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
